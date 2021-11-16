@@ -23,7 +23,7 @@ fields:
   default: now
   hidden: false
 - type: tag_list
-  name: categories
+  name: Material
   label: Material
 - type: color
   name: project_bg_color
