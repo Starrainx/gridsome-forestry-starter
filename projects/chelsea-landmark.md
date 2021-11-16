@@ -3,7 +3,7 @@ date: 2019-05-16
 year: 2019
 title: Banana
 category: Identity
-thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
+thumbnail: "/uploads/db03d27f9a1733dbbd9c0901f75dc628.jpeg"
 categories: []
 project_bg_color: ''
 project_fg_color: ''
