@@ -4,7 +4,8 @@ year: 2019
 title: Bauhaus sample
 category: Identity
 thumbnail: "/uploads/db03d27f9a1733dbbd9c0901f75dc628.jpeg"
-categories: []
+categories:
+- poster
 project_bg_color: ''
 project_fg_color: ''
 
