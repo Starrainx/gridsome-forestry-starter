@@ -5,7 +5,7 @@ title: Banana
 category: Identity
 thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
 categories: []
-project_bg_color: "#F8E71C"
+project_bg_color: ''
 project_fg_color: ''
 
 ---
