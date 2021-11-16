@@ -6,7 +6,7 @@ categories:
 - photography
 - blue
 project_bg_color: "#EDEDED"
-project_fg_color: "#D0021B"
+project_fg_color: ''
 
 ---
 ![](/uploads/cody-davis-253925-unsplash.jpg)
