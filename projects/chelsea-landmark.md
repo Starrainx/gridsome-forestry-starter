@@ -1,7 +1,7 @@
 ---
 date: 2019-05-16
 year: 2019
-title: Banana
+title: Bauhaus sample
 category: Identity
 thumbnail: "/uploads/db03d27f9a1733dbbd9c0901f75dc628.jpeg"
 categories: []
