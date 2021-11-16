@@ -4,10 +4,8 @@ year: 2019
 title: Banana
 category: Identity
 thumbnail: "/uploads/6-29.psd"
-categories:
-- photography
-- pink
-project_bg_color: ''
+categories: []
+project_bg_color: "#F8E71C"
 project_fg_color: ''
 
 ---
