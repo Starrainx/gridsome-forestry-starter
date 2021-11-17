@@ -20,3 +20,5 @@ fields:
   label: ins
   description: <a href="https://www.instagram.com/starrain_w/" title="https://www.instagram.com/starrain_w/"
     target="_blank">https://www.instagram.com/starrain_w/</a>
+pages:
+- author/claire-wang.md
