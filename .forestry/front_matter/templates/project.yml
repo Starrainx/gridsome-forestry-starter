@@ -11,6 +11,16 @@ fields:
   label: Title
   config:
     required: true
+- name: sort
+  type: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  label: sort
 - type: datetime
   name: date
   label: Date
