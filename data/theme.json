@@ -1,8 +1,8 @@
 {
   "footer": "Copyright &copy; 2021",
-  "dark_mode": false,
+  "dark_mode": true,
   "site_name": "Star's portfolio",
   "site_description": "Artwork of Star",
   "hero_title": "Claire Wang",
-  "hero_subtitle": "Hi there, I'm an independent Digital Designer &amp; Art Director focused on digital design for brands that like to have fun."
+  "hero_subtitle": "Hi there, I'm an independent Digital Designer focused on digital design to have fun."
 }
