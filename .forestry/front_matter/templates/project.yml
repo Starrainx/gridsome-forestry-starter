@@ -20,6 +20,7 @@ fields:
     min: 
     max: 
     step: 
+    required: true
   label: sort
 - type: tag_list
   name: Material
