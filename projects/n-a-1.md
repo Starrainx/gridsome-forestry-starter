@@ -7,3 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+Color my life with the chaos of trouble.
+
+![](/uploads/img_1189.JPG)
