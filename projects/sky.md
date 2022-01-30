@@ -8,6 +8,6 @@ project_fg_color: ''
 sort: 1
 
 ---
-Seeing this beautiful sky on my way to the workplace. Hoped someone can take a picture of this view but I was driving alone, so I drew it down to record it.
+Saw this beautiful sky on my way to the workplace. Hope someone can take a picture of this view but I was driving alone, so I drew it to record that memory.
 
 ![](/uploads/img_1022-2.jpg)
