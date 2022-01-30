@@ -7,7 +7,7 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-_一朵玫瑰正马不停蹄地成为另一朵玫瑰。你是云、是海、是忘却。_
+> _一朵玫瑰正马不停蹄地成为另一朵玫瑰。你是云、是海、是忘却。_
 
 Luna系列NFTs在NFT中国平台在售，[点击购买](www.nftcn.com.cn)。
 
