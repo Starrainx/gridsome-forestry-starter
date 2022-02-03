@@ -1,6 +1,6 @@
 ---
 date: 2021-11-17
-author: Nichlas W. Andersen
+author: 
 title: About me
 excerpt: ''
 
